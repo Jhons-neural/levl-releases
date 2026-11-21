@@ -1,5 +1,7 @@
-# Levl
+# Levl · instaladores
 
-Instaladores e atualizacoes do Levl, by JHON.
+Aqui ficam só os instaladores e as atualizações do Levl.
 
-Baixe o `Levl-Setup-<versao>.exe` mais recente em **Releases**.
+Código, guia e prompt de montagem: **https://github.com/Jhons-neural/levl**
+
+Baixe o `Levl-Setup-<versão>.exe` mais recente em **Releases**.
